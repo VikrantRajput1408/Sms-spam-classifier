@@ -1,4 +1,8 @@
 streamlit
-sklearn
+plotly
+scikit-learn
+seaborn
+matplotlib
+pickle5
+scipy
 nltk
-sklearn
